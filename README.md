@@ -6,8 +6,11 @@ J.P. Morgan Cybersecurity Virtual Experience Program
 Working with data of security critical systems 
 
 # Task 2
-## Learn About Application Security Fundamentals and Put it to Use on Your Own Website.
-Gain awareness of what needs to be secured
+## Learn About Application Security Fundamentals and Put it to Use on Your Own Website(lean about the application).
+Gain awareness of what needs to be secured. 
+  * [OWASP Top10](https://owasp.org/Top10/)
+  * [Django Reference](https://docs.djangoproject.com/en/3.2/topics/security/)
+  * mysite.zip
 
 # Task 3
 ## Spam or Ham? Build an Email Classifier.
